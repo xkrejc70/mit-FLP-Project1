@@ -2,6 +2,8 @@
 
 Varianta: DKA-2-MKA
 
+Obtained points: 12/12 + 2 bonus
+
 ## Testy
 Součástí projektu jsou automatické testy, které obstarává `Makefile`. Veškeré testy jsou uloženy ve složce `tests`. Jejich spuštění je následující:
 
